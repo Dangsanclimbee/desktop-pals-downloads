@@ -1,2 +1,26 @@
-# desktop-pals-downloads
-Desktop Pals Windows 10/11 installer downloads for friends.
+# Desktop Pals · 데스크톱 친구들
+
+Windows 10/11 64비트용 바탕화면 캐릭터 채팅 프로그램입니다.
+
+[최신 설치파일과 사용 안내](https://github.com/Dangsanclimbee/desktop-pals-downloads/releases/latest)
+
+## 설치
+
+1. 위 링크의 Assets에서 **DesktopPals-Setup-1.2.1.zip**을 내려받습니다. GitHub 가입이나 로그인이 필요 없습니다.
+2. 압축을 풀고 **DesktopPals-Setup-1.2.1.exe**를 실행합니다.
+3. Desktop Pals를 켜고 원하는 이름을 입력합니다. 같은 설치파일을 사용하는 친구들이 자동으로 함께 나타납니다.
+
+기존 버전이 실행 중이면 트레이 메뉴에서 종료한 뒤 설치합니다. 추가 .NET 설치나 관리자 권한은 필요 없습니다.
+
+## 사용
+
+- 내 캐릭터 클릭: 머리 위 말풍선에서 입력하고 Enter로 전송합니다.
+- 친구 캐릭터 클릭: 공을 던집니다.
+- 캐릭터 우클릭: 대화 이력이나 설정을 엽니다.
+- 캐릭터를 드래그하면 매달리고, 놓으면 바닥으로 떨어집니다.
+- 감정 버튼은 캐릭터 표정과 그래픽으로 표시됩니다.
+- 설정에서 캐릭터, 항상 위/바탕화면, 자리비움 시간, 알림을 고를 수 있습니다.
+
+무료 클라우드 서버가 쉬고 있으면 첫 연결에 약 1분이 걸릴 수 있습니다. 앱이 자동으로 재접속합니다.
+
+이 저장소는 설치파일 배포와 사용 안내를 제공합니다.
